@@ -3,8 +3,8 @@ adbutils
 
 cryptography
 #config
-python-dotenv
-plotly
+dotenv
+plotly.express
 #libpcap
 streamlit
 fpdf
@@ -41,8 +41,6 @@ transformers
 torch
 torchvision
 sentencepiece
-keras
-tensorflow
 # --- Forensics & Network ---
 whois
 scapy
@@ -68,4 +66,4 @@ sqlite-utils
 
 # --- Optional ---
 # pytesseract==0.3.10   # Uncomment if OCR support is needed
-# rarfile==4.0          # For .rarÂ archiveÂ support
+# rarfile==4.0          # For .rar archive support
