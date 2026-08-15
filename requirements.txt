@@ -26,12 +26,6 @@ matplotlib
 seaborn
 scikit-learn
 joblib
-transformers
-torch
-torchvision
-sentencepiece
-keras
-tensorflow
 whois
 scapy
 tldextract
