@@ -1,11 +1,8 @@
 pyshark
 adbutils
-
 cryptography
-#config
 python-dotenv
 plotly
-#libpcap
 streamlit
 fpdf
 altair
@@ -18,23 +15,15 @@ PyPDF2
 regex
 pyOpenSSL
 reportlab
-# --- Core Streamlit App ---
 streamlit-option-menu
-streamlit-folium
-
-# --- Data Handling ---
 pandas
 numpy
 openpyxl
 python-docx
 python-pptx
-fpdf
 PyMuPDF
 matplotlib
 seaborn
-
-
-# --- ML / NLP ---
 scikit-learn
 joblib
 transformers
@@ -43,29 +32,14 @@ torchvision
 sentencepiece
 keras
 tensorflow
-# --- Forensics & Network ---
 whois
 scapy
-pyshark
 tldextract
-
-# --- ADB & Filesystem ---
 adb-shell
-python-magic # Optional for MIME detection 
+python-magic
 psutil
-
-# --- Security & Hashing ---  # builtin (no pip)
-pyzipper  # for secure zip handling
-
-# --- Dev Tools ---
+pyzipper
 tqdm
-altair
 jinja2
 requests
-
-# --- SQLite & DB ---
 sqlite-utils
-
-# --- Optional ---
-# pytesseract==0.3.10   # Uncomment if OCR support is needed
-# rarfile==4.0          # For .rar archive support
