@@ -3,8 +3,8 @@ adbutils
 
 cryptography
 #config
-dotenv
-plotly.express
+python-dotenv
+plotly
 #libpcap
 streamlit
 fpdf
